@@ -48,6 +48,6 @@
             }
         }
 
-        setInterval(draw, 35);
+        setInterval(draw, 50);
 
         
